@@ -36,5 +36,5 @@ I am an entry-level backend developer focused on building secure, efficient, and
 ---
 
 ### 🤝 Let's Connect!
-*   💼 **LinkedIn:** [://linkedin.com]([https://://linkedin.com](https://www.linkedin.com/in/karthikeya-vemula-776134323/))
+*   💼 **LinkedIn:** ([https://://linkedin.com](https://www.linkedin.com/in/karthikeya-vemula-776134323/))
 *   📧 **Email:** [your.email@example.com](karthikeyavemula9@gmail.com)
