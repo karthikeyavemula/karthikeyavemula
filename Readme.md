@@ -1,60 +1,41 @@
 # Hi there, I'm [Vemula Tejoram Karthikeya] 👋
-### Backend Developer | Enterprise Java & API Specialist
+### Aspiring Backend Developer | Java & Spring Boot Trainee
 
-Backend Developer focused on building high-performance, robust, and scalable server-side systems. Specialized in constructing efficient relational database workflows and secure, production-grade REST APIs.
-
----
-
-### 🛠️ Technical Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Spring JPA" />
-      <br>Spring JPA
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="SQL / MySQL" />
-      <br>SQL / MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Maven" />
-      <br>Maven
-    </td>
-  </tr>
-</table>
-
-*   **Core Capabilities:** Object-Oriented Programming (OOP), Data Structures, Multithreading.
-*   **Database Layers:** Raw Database Connectivity (**JDBC**) & Object-Relational Mapping (**Spring Data JPA / Hibernate**).
-*   **API Development:** RESTful Microservices, Request/Response Validation, Exception Handling, JSON Data Parsing.
+I am an entry-level backend developer focused on mastering the Java ecosystem. I love building APIs and understanding how data moves from a database to a user interface. I am actively looking for a junior developer role where I can contribute and learn from a senior engineering team.
 
 ---
 
-### 🚀 Core Architecture Expertise
+### 🛠️ Technical Stack I Use
 
-#### 🌐 Production-Grade REST APIs
-*   Designed architectures featuring controllers, services, and repositories using **Spring Boot**.
-*   Built CRUD services handling business logic validations, dynamic HTTP status codes, and unified custom global exception handlers.
+<!-- Java -->
+<img src="https://shields.io" />
+<!-- Spring Boot -->
+<img src="https://shields.io" />
+<!-- Spring Data JPA -->
+<img src="https://shields.io" />
+<!-- JDBC -->
+<img src="https://shields.io" />
+<!-- SQL -->
+<img src="https://shields.io" />
 
-#### 🗄️ Advanced Database Persistence
-*   Wrote complex **SQL** scripts, triggers, and indices to optimize system data retrieval.
-*   Managed database connections and mapped relational fields seamlessly via **JDBC** and **Spring Data JPA**.
+<br/>
+
+*   **Core Knowledge:** Object-Oriented Programming (OOP) concepts, Collections framework, Exception handling.
+*   **Database Foundations:** Writing CRUD queries in **SQL**, connecting apps using **JDBC**, and automating mappings with **Spring Data JPA**.
+*   **Web Services:** Building basic REST endpoints using **Spring Boot Controller** structures.
 
 ---
 
-### 📈 GitHub Ecosystem Insights
+### 📂 My Learning Projects
+
+#### 📌 [Project Name: E-Commerce API / Library System / etc.](https://github.com)
+*   Created a working backend application using **Spring Boot** and a relational database.
+*   Wrote custom SQL scripts and used **Spring Data JPA** repositories to handle user data.
+*   Tested API endpoints using tools like Postman to verify proper JSON responses.
+
+---
+
+### 📈 GitHub Contributions
 
 <p align="left">
   <img src="https://vercel.app" height="150" alt="GitHub Stats" />
@@ -64,5 +45,5 @@ Backend Developer focused on building high-performance, robust, and scalable ser
 ---
 
 ### 🤝 Let's Connect!
-*   💼 **LinkedIn:**[ https://://linkedin.com](https://www.linkedin.com/in/karthikeya-vemula-776134323/)
-*   📧 **Email:**  karthikeyavemula9@example.com
+*   💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/karthikeya-vemula-776134323/)
+*   📧 **Email:** [your.email@example.com](karthikeyavemula9@gmail.com)
