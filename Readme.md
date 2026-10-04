@@ -1,49 +1,40 @@
-# Hi there, I'm [Vemula Tejoram Karthikeya] 👋
-### Aspiring Backend Developer | Java & Spring Boot Trainee
+# Hi there, I'm Vemula Tejoram Karthikeya 👋
+### Junior Backend Developer | Java & Spring Boot
 
-I am an entry-level backend developer focused on mastering the Java ecosystem. I love building APIs and understanding how data moves from a database to a user interface. I am actively looking for a junior developer role where I can contribute and learn from a senior engineering team.
-
----
-
-### 🛠️ Technical Stack I Use
-
-<!-- Java -->
-<img src="https://shields.io" />
-<!-- Spring Boot -->
-<img src="https://shields.io" />
-<!-- Spring Data JPA -->
-<img src="https://shields.io" />
-<!-- JDBC -->
-<img src="https://shields.io" />
-<!-- SQL -->
-<img src="https://shields.io" />
-
-<br/>
-
-*   **Core Knowledge:** Object-Oriented Programming (OOP) concepts, Collections framework, Exception handling.
-*   **Database Foundations:** Writing CRUD queries in **SQL**, connecting apps using **JDBC**, and automating mappings with **Spring Data JPA**.
-*   **Web Services:** Building basic REST endpoints using **Spring Boot Controller** structures.
+I am an entry-level backend developer focused on building secure, efficient, and data-driven applications. I specialize in the Java ecosystem, writing clean object-oriented code, designing database schemas, and developing RESTful APIs.
 
 ---
 
-### 📂 My Learning Projects
+### 🛠️ Technical Stack
 
-#### 📌 [Project Name: E-Commerce API / Library System / etc.](https://github.com)
-*   Created a working backend application using **Spring Boot** and a relational database.
-*   Wrote custom SQL scripts and used **Spring Data JPA** repositories to handle user data.
-*   Tested API endpoints using tools like Postman to verify proper JSON responses.
+<table>
+  <tr>
+    <td bgcolor="#FF8C00" align="center" style="color: white; font-weight: bold; padding: 10px 16px; border-radius: 6px;">☕ Java</td>
+    <td bgcolor="#FF8C00" align="center" style="color: white; font-weight: bold; padding: 10px 16px; border-radius: 6px;">🔌 JDBC</td>
+    <td bgcolor="#FF8C00" align="center" style="color: white; font-weight: bold; padding: 10px 16px; border-radius: 6px;">🗄️ SQL / MySQL</td>
+    <td bgcolor="#FF8C00" align="center" style="color: white; font-weight: bold; padding: 10px 16px; border-radius: 6px;">🍃 Spring Boot</td>
+    <td bgcolor="#FF8C00" align="center" style="color: white; font-weight: bold; padding: 10px 16px; border-radius: 6px;">💾 Spring Data JPA</td>
+  </tr>
+</table>
 
 ---
 
-### 📈 GitHub Contributions
+### 📂 Featured Projects
 
-<p align="left">
-  <img src="https://vercel.app" height="150" alt="GitHub Stats" />
-  <img src="https://vercel.app" height="150" alt="Top Languages" />
-</p>
+#### 🏦 [Bank Account Management System]([https://github.com](https://github.com/karthikeyavemula/Bank-Account-Management-System))
+*   **Developed a secure terminal-based banking backend** utilizing Core Java, JDBC, and MySQL.
+*   **Implemented `PreparedStatements`** to entirely eliminate SQL Injection (SQLi) vulnerabilities.
+*   **Engineered transaction queries** with strict server-side logic for real-time overdraft protection.
+*   **Tech Stack:** Java, JDBC, MySQL
+
+#### 🚖 [Console-Based Application Suite][(https://github.com](https://github.com/karthikeyavemula/Taxi-fare-calculator-java))
+*   **Built CLI utilities**—including a taxi fare calculator—to master core backend programming paradigms.
+*   **Applied OOP principles** (Encapsulation, Polymorphism, Inheritance) to manage application data cleanly.
+*   **Implemented robust exception handling blocks** to parse and handle unexpected user inputs gracefully.
+*   **Tech Stack:** Java, Object-Oriented Programming (OOP)
 
 ---
 
 ### 🤝 Let's Connect!
-*   💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/karthikeya-vemula-776134323/)
+*   💼 **LinkedIn:** [://linkedin.com]([https://://linkedin.com](https://www.linkedin.com/in/karthikeya-vemula-776134323/))
 *   📧 **Email:** [your.email@example.com](karthikeyavemula9@gmail.com)
